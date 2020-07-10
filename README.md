@@ -1,6 +1,7 @@
 # Dog-and-Cat-Classifier-using-CNN
 
 > A Convolutional Neural Network trained to classify Cat vs Dog images.</br>
+</br>
 
 **Features Used**
 
